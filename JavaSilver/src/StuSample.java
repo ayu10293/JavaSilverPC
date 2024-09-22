@@ -5,6 +5,7 @@ public class StuSample {
 		System.out.println("0000007008");
 		
 		Student stu1 = new Student();
+		Student stu2 = new Student();
 		
 		stu1.name = "A";
 		stu1.setScore(99, 89);
