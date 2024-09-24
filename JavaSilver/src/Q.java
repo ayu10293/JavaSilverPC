@@ -6,5 +6,6 @@ public class Q {
 		System.out.println(a);
 		char b = '\u0561';
 		System.out.println(b);
+		
 	}
 }
