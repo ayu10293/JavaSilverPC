@@ -8,5 +8,4 @@ public class Q2_5 {
 		array[2] = "30";
 		System.out.println(array[0] + array[1] + array[2]);
 	}
-
 }
