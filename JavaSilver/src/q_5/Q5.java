@@ -1,3 +1,5 @@
+package q_5;
+import ExampleQ5;
 
 public class Q5 {
 

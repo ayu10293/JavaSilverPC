@@ -1,3 +1,4 @@
+package q_5;
 
 public class Q5_16 {
 	public static String msg = "hello";

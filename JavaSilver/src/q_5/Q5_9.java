@@ -1,3 +1,4 @@
+package q_5;
 public class Q5_9 {
 	static void methodA() {
 		methodB();

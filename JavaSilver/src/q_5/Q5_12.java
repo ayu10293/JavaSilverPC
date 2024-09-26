@@ -1,3 +1,4 @@
+package q_5;
 class Foo1 {
 	int x;
 	void setX(int x) {
