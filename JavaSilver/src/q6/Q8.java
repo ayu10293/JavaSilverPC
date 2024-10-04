@@ -6,7 +6,7 @@ class MySuperClass {
 		x = i;
 		System.out.println("mySuperClass: " + x);
 	}
-	//MySuperClass(){}
+	MySuperClass(){}
 }
 
 public class Q8 extends MySuperClass {
